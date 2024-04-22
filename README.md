@@ -1,3 +1,3 @@
 # first_project
-This is my first Git repositary .
+This is my first Git repositary. <br>
 Author - Inayat hasan
